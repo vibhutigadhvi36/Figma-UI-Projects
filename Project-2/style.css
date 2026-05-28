@@ -4,20 +4,20 @@
     box-sizing: border-box;
 }
 @font-face {
-    font-family: 'Gilroy';
-    src: url('./Fonts/Gilroy-Regular.ttf'); 
+    font-family: 'Inter';
+    src: url('./Fonts/Inter-Regular.ttf'); 
     font-weight: 400;
 }
 
 @font-face {
-    font-family: 'Gilroy';
-    src: url('./Fonts/Gilroy-Medium.ttf');
+    font-family: 'Inter';
+    src: url('./Fonts/Inter-Medium.ttf');
     font-weight: 500;
 }
 
 @font-face {
-    font-family: 'Gilroy';
-    src: url('./Fonts/Gilroy-Bold.ttf');
+    font-family: 'Inter';
+    src: url('./Fonts/Inter-Bold.ttf');
     font-weight: 700;
 }
 
